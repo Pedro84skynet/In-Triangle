@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="domain.PointInsideATriangleTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-06-27T11:32:49" hostname="pedro-ubuntu" time="0.069">
+  <properties/>
+  <testcase name="OuterPointTest()" classname="domain.PointInsideATriangleTest" time="0.039"/>
+  <testcase name="isLine()" classname="domain.PointInsideATriangleTest" time="0.018"/>
+  <testcase name="basicTriangleAntiClockWise()" classname="domain.PointInsideATriangleTest" time="0.0"/>
+  <testcase name="CenterPointTest()" classname="domain.PointInsideATriangleTest" time="0.005"/>
+  <testcase name="middlePointBasic()" classname="domain.PointInsideATriangleTest" time="0.001"/>
+  <testcase name="basicTriangleClockWise()" classname="domain.PointInsideATriangleTest" time="0.001"/>
+  <testcase name="isTriangle()" classname="domain.PointInsideATriangleTest" time="0.001"/>
+  <testcase name="middlePointBasicReverse()" classname="domain.PointInsideATriangleTest" time="0.001"/>
+  <testcase name="isPoint()" classname="domain.PointInsideATriangleTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
